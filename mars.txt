@@ -6,3 +6,5 @@ blabla I'm your new collaborator
 hellow I am sijie
 kfjqk<nfls Simon charabia
 I deleted everything to resolve the conflict
+
+try to skip a line to avoid conflict
